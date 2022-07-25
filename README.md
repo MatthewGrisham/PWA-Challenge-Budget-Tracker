@@ -10,11 +10,7 @@
 
 ### App Deployed to Heroku
 
-https://budget-tracker-pwa-app.herokuapp.com/
-
-### App Demo
-
-![](img/budget-tracker.gif)
+https://git.heroku.com/matthew-budget-tracker.git
 
 ### Application Functionalities
 
